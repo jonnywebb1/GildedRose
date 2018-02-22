@@ -25,7 +25,8 @@ namespace GildedRose
                     Console.WriteLine(data.ItemName + " " +  item.SellIn.ToString() + " " + item.Quality.ToString());
                 }
             }
-            Console.WriteLine("Please close the application when you have finished.");
+            Console.WriteLine("Please close the application or enter anything when you have finished.");
+            Console.ReadLine();
         }
 
         private static List<InputData> LoadData() 
