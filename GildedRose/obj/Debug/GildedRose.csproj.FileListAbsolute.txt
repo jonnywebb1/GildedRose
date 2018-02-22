@@ -1,0 +1,12 @@
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\obj\Debug\GildedRose.csprojResolveAssemblyReference.cache
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\bin\Debug\GildedRose.exe.config
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\bin\Debug\GildedRose.exe
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\bin\Debug\GildedRose.pdb
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\bin\Debug\ItemService.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\bin\Debug\Models.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\bin\Debug\nunit.framework.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\bin\Debug\ItemService.pdb
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\bin\Debug\Models.pdb
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\bin\Debug\nunit.framework.xml
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\obj\Debug\GildedRose.exe
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose\obj\Debug\GildedRose.pdb

@@ -1,0 +1,4 @@
+C:\Users\Jonny\Docs\Jobs\GildedRose\Models\bin\Debug\Models.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\Models\bin\Debug\Models.pdb
+C:\Users\Jonny\Docs\Jobs\GildedRose\Models\obj\Debug\Models.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\Models\obj\Debug\Models.pdb

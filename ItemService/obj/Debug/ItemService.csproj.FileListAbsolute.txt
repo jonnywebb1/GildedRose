@@ -1,0 +1,7 @@
+C:\Users\Jonny\Docs\Jobs\GildedRose\ItemService\obj\Debug\ItemService.csprojResolveAssemblyReference.cache
+C:\Users\Jonny\Docs\Jobs\GildedRose\ItemService\bin\Debug\ItemService.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\ItemService\bin\Debug\ItemService.pdb
+C:\Users\Jonny\Docs\Jobs\GildedRose\ItemService\bin\Debug\Models.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\ItemService\bin\Debug\Models.pdb
+C:\Users\Jonny\Docs\Jobs\GildedRose\ItemService\obj\Debug\ItemService.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\ItemService\obj\Debug\ItemService.pdb

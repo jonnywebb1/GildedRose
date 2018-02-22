@@ -1,0 +1,11 @@
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\bin\Debug\GildedRose.Test.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\bin\Debug\GildedRose.Test.pdb
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\bin\Debug\nunit.framework.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\bin\Debug\nunit.framework.xml
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\obj\Debug\GildedRose.Test.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\obj\Debug\GildedRose.Test.pdb
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\bin\Debug\ItemService.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\bin\Debug\Models.dll
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\bin\Debug\ItemService.pdb
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\bin\Debug\Models.pdb
+C:\Users\Jonny\Docs\Jobs\GildedRose\GildedRose.Test\obj\Debug\GildedRose.Test.csprojResolveAssemblyReference.cache
